@@ -1,7 +1,14 @@
 # Smart-Wireless-Sensor-Project
 
 Final year project completed over the course of November 2022 - April 2023
-<br/><br/>
+
+<br/>
+
+Report: [Smart Wireless Sensor Final Report.pdf](https://github.com/sam-ross/Smart-Wireless-Sensor-Project/files/11301759/Smart.Wireless.Sensor.Final.Report.pdf)
+
+Website: https://smart-wireless-sensor.nw.r.appspot.com/
+
+<br/>
 
 
 ## Full Circuit Diagram
