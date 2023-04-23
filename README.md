@@ -2,6 +2,13 @@
 
 Final year project completed over the course of November 2022 - April 2023
 
+
+
+Report: [Smart-Wireless-Sensor-Final-Report.pdf](https://github.com/sam-ross/Smart-Wireless-Sensor-Project/files/11301789/Smart-Wireless-Sensor-Final-Report.pdf)
+
+Website: https://smart-wireless-sensor.nw.r.appspot.com/
+
+
 ## Abstract
 
 This project aims to research, design, and develop an embedded smart wireless sensor solution that
@@ -23,15 +30,6 @@ secondary ESP32 Wi-Fi Access Point & Station Web Servers, along with being sent 
 pipeline to a cloud-hosted React JS website and stored in cloud data storage. The true frequency and
 VRMS algorithms were validated through a simulation in MATLAB and found to be over 33 times
 more accurate than originally required (+-0.3mHz and +-0.3mV, respectively).
-
-<br/>
-
-Report: [Smart-Wireless-Sensor-Final-Report.pdf](https://github.com/sam-ross/Smart-Wireless-Sensor-Project/files/11301789/Smart-Wireless-Sensor-Final-Report.pdf)
-
-Website: https://smart-wireless-sensor.nw.r.appspot.com/
-
-
-
 
 <br/>
 
